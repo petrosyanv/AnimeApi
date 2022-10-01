@@ -1,0 +1,89 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="69">
+            <item index="0" class="java.lang.String" itemvalue="greenlet" />
+            <item index="1" class="java.lang.String" itemvalue="python-dotenv" />
+            <item index="2" class="java.lang.String" itemvalue="h11" />
+            <item index="3" class="java.lang.String" itemvalue="marshmallow" />
+            <item index="4" class="java.lang.String" itemvalue="py" />
+            <item index="5" class="java.lang.String" itemvalue="roundrobin" />
+            <item index="6" class="java.lang.String" itemvalue="markupsafe" />
+            <item index="7" class="java.lang.String" itemvalue="trio" />
+            <item index="8" class="java.lang.String" itemvalue="pyzmq" />
+            <item index="9" class="java.lang.String" itemvalue="certifi" />
+            <item index="10" class="java.lang.String" itemvalue="gevent" />
+            <item index="11" class="java.lang.String" itemvalue="pyparsing" />
+            <item index="12" class="java.lang.String" itemvalue="pytest-metadata" />
+            <item index="13" class="java.lang.String" itemvalue="werkzeug" />
+            <item index="14" class="java.lang.String" itemvalue="pyperclip" />
+            <item index="15" class="java.lang.String" itemvalue="iniconfig" />
+            <item index="16" class="java.lang.String" itemvalue="zope.interface" />
+            <item index="17" class="java.lang.String" itemvalue="typing-extensions" />
+            <item index="18" class="java.lang.String" itemvalue="click" />
+            <item index="19" class="java.lang.String" itemvalue="wsproto" />
+            <item index="20" class="java.lang.String" itemvalue="attrs" />
+            <item index="21" class="java.lang.String" itemvalue="psutil" />
+            <item index="22" class="java.lang.String" itemvalue="random-username" />
+            <item index="23" class="java.lang.String" itemvalue="jinja2" />
+            <item index="24" class="java.lang.String" itemvalue="dataclasses-json" />
+            <item index="25" class="java.lang.String" itemvalue="execnet" />
+            <item index="26" class="java.lang.String" itemvalue="platformdirs" />
+            <item index="27" class="java.lang.String" itemvalue="marshmallow-enum" />
+            <item index="28" class="java.lang.String" itemvalue="charset-normalizer" />
+            <item index="29" class="java.lang.String" itemvalue="allure-python-commons" />
+            <item index="30" class="java.lang.String" itemvalue="pytest-html" />
+            <item index="31" class="java.lang.String" itemvalue="flask" />
+            <item index="32" class="java.lang.String" itemvalue="async-generator" />
+            <item index="33" class="java.lang.String" itemvalue="msgpack" />
+            <item index="34" class="java.lang.String" itemvalue="idna" />
+            <item index="35" class="java.lang.String" itemvalue="locust" />
+            <item index="36" class="java.lang.String" itemvalue="pathspec" />
+            <item index="37" class="java.lang.String" itemvalue="trio-websocket" />
+            <item index="38" class="java.lang.String" itemvalue="brotli" />
+            <item index="39" class="java.lang.String" itemvalue="pluggy" />
+            <item index="40" class="java.lang.String" itemvalue="mypy-extensions" />
+            <item index="41" class="java.lang.String" itemvalue="webdriver-manager" />
+            <item index="42" class="java.lang.String" itemvalue="pytest-xdist" />
+            <item index="43" class="java.lang.String" itemvalue="requests" />
+            <item index="44" class="java.lang.String" itemvalue="sniffio" />
+            <item index="45" class="java.lang.String" itemvalue="pytest-forked" />
+            <item index="46" class="java.lang.String" itemvalue="flask-basicauth" />
+            <item index="47" class="java.lang.String" itemvalue="ng-qa-core" />
+            <item index="48" class="java.lang.String" itemvalue="selenium" />
+            <item index="49" class="java.lang.String" itemvalue="flask-cors" />
+            <item index="50" class="java.lang.String" itemvalue="tomli" />
+            <item index="51" class="java.lang.String" itemvalue="urllib3" />
+            <item index="52" class="java.lang.String" itemvalue="itsdangerous" />
+            <item index="53" class="java.lang.String" itemvalue="zope.event" />
+            <item index="54" class="java.lang.String" itemvalue="outcome" />
+            <item index="55" class="java.lang.String" itemvalue="six" />
+            <item index="56" class="java.lang.String" itemvalue="pytest" />
+            <item index="57" class="java.lang.String" itemvalue="pymailtm" />
+            <item index="58" class="java.lang.String" itemvalue="black" />
+            <item index="59" class="java.lang.String" itemvalue="packaging" />
+            <item index="60" class="java.lang.String" itemvalue="allure-pytest" />
+            <item index="61" class="java.lang.String" itemvalue="sortedcontainers" />
+            <item index="62" class="java.lang.String" itemvalue="tqdm" />
+            <item index="63" class="java.lang.String" itemvalue="typing-inspect" />
+            <item index="64" class="java.lang.String" itemvalue="geventhttpclient" />
+            <item index="65" class="java.lang.String" itemvalue="pillow" />
+            <item index="66" class="java.lang.String" itemvalue="pysocks" />
+            <item index="67" class="java.lang.String" itemvalue="isort" />
+            <item index="68" class="java.lang.String" itemvalue="configargparse" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="tests.nte.nte_v2.steps.create_token_v2_steps.TokenResponce" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
